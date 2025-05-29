@@ -4,6 +4,11 @@
 
 A practical real-time IoT sensor data pipeline on GCP with serverless processing and live dashboard.
 
+## 🎥 Project Walkthrough (YouTube) – 🇹🇷
+
+📺 Watch the full development walkthrough and demo in Turkish:
+🔗 [Project Video Link](https://youtu.be/YTwNlZJRh4k)
+
 ## **[View Live Dashboard](https://lookerstudio.google.com/reporting/95e13dc5-2708-4148-885f-037f6f775e4c/page/t2HMF)** - Real-time sensor data visualization
 
 ## 📋 **Table of Contents**
